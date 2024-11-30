@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" office:version="1.2">
+  <office:font-face-decls>
+    <style:font-face style:name="Courier New" style:font-family-generic="modern" style:font-pitch="fixed" svg:font-family="'Courier New'" />
+  </office:font-face-decls>
+  <office:automatic-styles>
+    <text:list-style style:name="L1">
+      <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.0in" fo:text-indent="-0.25in" fo:margin-left="1.0in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.0in" fo:text-indent="-0.25in" fo:margin-left="2.0in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="L2">
+      <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.0in" fo:text-indent="-0.25in" fo:margin-left="1.0in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.0in" fo:text-indent="-0.25in" fo:margin-left="2.0in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="L3">
+      <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.0in" fo:text-indent="-0.25in" fo:margin-left="1.0in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.0in" fo:text-indent="-0.25in" fo:margin-left="2.0in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="L4">
+      <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.0in" fo:text-indent="-0.25in" fo:margin-left="1.0in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.0in" fo:text-indent="-0.25in" fo:margin-left="2.0in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="L5">
+      <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.0in" fo:text-indent="-0.25in" fo:margin-left="1.0in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.0in" fo:text-indent="-0.25in" fo:margin-left="2.0in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="L6">
+      <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.0in" fo:text-indent="-0.25in" fo:margin-left="1.0in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.0in" fo:text-indent="-0.25in" fo:margin-left="2.0in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="right">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in" />
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Formula"><style:graphic-properties style:vertical-pos="middle" style:vertical-rel="text" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" style:wrap="none" /></style:style>
+    <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Formula"><style:graphic-properties style:vertical-pos="middle" style:vertical-rel="text" /></style:style>
+    <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+    </style:style>
+    <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+    </style:style>
+    <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+    </style:style>
+    <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+    </style:style>
+    <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Quotations">
+      <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" />
+    </style:style>
+    <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+      <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" />
+    </style:style>
+    <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+      <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" />
+    </style:style>
+  </office:automatic-styles>
+<office:body>
+<office:text>
+<text:p text:style-name="Title">Век Державина</text:p>
+<text:section text:name="app-root"><text:section text:name="header"><text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="/books" office:name=""><text:span text:style-name="Definition">книги</text:span></text:a><text:a xlink:type="simple" xlink:href="/lists" office:name=""><text:span text:style-name="Definition">списки</text:span></text:a><text:a xlink:type="simple" xlink:href="/podcasts" office:name=""><text:span text:style-name="Definition">подкасты</text:span></text:a></text:p>
+<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="/" office:name=""><text:span text:style-name="Definition"><draw:frame draw:name="img1"><draw:image xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjQyIiB2aWV3Ym94PSIwIDAgMjEzIDQyIiB3aWR0aD0iMjEzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNvbG9yIGNsYXNzPSJfMmp3SHAiPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Im03Ni40NTMxIDcuMDYwNDZjLTMuNTU5OS0zLjU2NjEzLTguNDA3OC01LjU4OTk4LTEzLjQ3NzgtNS42MjY2My01LjA3MDEtLjAzNjY2LTkuOTQ3NSAxLjkxNjg4LTEzLjU1OTggNS40MzExNmwtLjE5LjE5MDI2Yy0xLjg1MzUgMS44MTM5OS0zLjMyNzEgMy45NzA4NS00LjMzNjcgNi4zNDczNXMtMS41MzU0IDQuOTI2Mi0xLjU0NzQgNy41MDM0Yy0uMDEyIDIuNTc3My40OTAxIDUuMTMxNiAxLjQ3NzUgNy41MTcyczIuNDQwOCA0LjU1NTggNC4yNzczIDYuMzg2NWwuMTI5My4xMjUxYzEuNzYzMiAxLjc2NjggMy44NjE0IDMuMTczMSA2LjE3NSA0LjEzODcgMi4zMTM1Ljk2NTYgNC43OTY5IDEuNDcxNiA3LjMwODQgMS40ODlzNS4wMDE5LS40NTQgNy4zMjg5LTEuMzg3NCA0LjQ0NTEtMi4zMTA1IDYuMjMzMi00LjA1MjZjLjA2MzQtLjA2LjEyNjctLjEyNTEuMTktLjE4NzcgMS44NTM1LTEuODE0IDMuMzI3MS0zLjk3MDggNC4zMzY3LTYuMzQ3M3MxLjUzNTQtNC45MjYyIDEuNTQ3NC03LjUwMzVjLjAxMi0yLjU3NzItLjQ5MDEtNS4xMzE2LTEuNDc3NS03LjUxNzJzLTIuNDQwOC00LjU1NTY5LTQuMjc3My02LjM4NjQ1bC0uMTI5My0uMTI1MXptLTEzLjYwOTktNi4yNjAzMjdjNS42MzAzLS4wNDQyMjIgMTEuMDQ4NiAyLjExOTA0NyAxNS4wNjY0IDYuMDE1MzM3IDMuODAzNCAzLjcwODEzIDUuOTYgOC43NTY2MyA1Ljk5NTcgMTQuMDM1MTMuMDM1NiA1LjI3ODYtMi4wNTI3IDEwLjM1NS01LjgwNTcgMTQuMTEyOWwtLjE5LjE4NWMtNC4wNDMgMy44NTgyLTkuNDQ0OCA2LjAxNDYtMTUuMDY2NCA2LjAxNDYtNS42MjE1IDAtMTEuMDIzMy0yLjE1NjQtMTUuMDY2My02LjAxNDYtMy44MDM0LTMuNzA4MS01Ljk2LTguNzU2Ni01Ljk5NTctMTQuMDM1MS0uMDM1Ni01LjI3ODYgMi4wNTI3LTEwLjM1NSA1LjgwNTctMTQuMTEyODhsLjE5LS4xODUwNWM0LjAxNzgtMy44OTYyOSA5LjQzNi02LjA1OTU1OSAxNS4wNjYzLTYuMDE1MzM3em0wIDE4LjU3NTA2N2MuMzIyNiAwIC42Mzc4LjA5NDUuOTA2LjI3MTUuMjY4MS4xNzcuNDc3Mi40Mjg1LjYwMDYuNzIyOHMuMTU1Ny42MTgyLjA5MjguOTMwNmMtLjA2My4zMTI1LS4yMTgzLjU5OTUtLjQ0NjMuODI0Ny0uMjI4MS4yMjUzLS41MTg2LjM3ODctLjgzNDkuNDQwOS0uMzE2My4wNjIxLS42NDQyLjAzMDItLjk0MjItLjA5MTctLjI5NzktLjEyMTktLjU1MjYtLjMyODQtLjczMTgtLjU5MzItLjE3OTItLjI2NDktLjI3NDgtLjU3NjMtLjI3NDgtLjg5NDktLjAwMDMtLjIxMTYuMDQxNi0uNDIxMi4xMjM0LS42MTY4cy4yMDE5LS4zNzMzLjM1MzQtLjUyMjkuMzMxNC0uMjY4My41Mjk0LS4zNDkxLjQxMDItLjEyMjIuNjI0NC0uMTIxOXptMTE4LjMxNDggOS45MDM5aDIyLjA3N2wtMTEuMDQtMjYuNjM4OTJ6bTI0LjA1OCAxMS4wOTI1aDIuNjEybC00LjM0LTEwLjQ3NDhoLTIyLjU4NGwtNC4zNDMgMTAuNDc0OGgzLjM5OXYuNjE3NmgtNy43ODl2LS42MTc2aDMuNjQ5bDQuMzQzLTEwLjQ3NDhoLTIuNjc4di0uNjE3N2gyLjkyOGwxMi4xMzgtMjkuMjc5MSAxNi43MjkgNDAuMzcxNmgzLjcydi42MTc2aC03Ljc4NHptLTY3LjY2NC0yNC4xNzg3aDIuNzEzYzEuMTAzIDAgMi4zNzQgMCAzLjQ1NC0uNjI1NS42MjgtLjM4NDIgMS4xODYtLjg3MTYgMS42NDktMS40NDEzLjU4OS0uNzA5IDEuMDkyLTEuNDg0IDEuNDk4LTIuMzA5MS4zODEtLjc2MTkuNjk5LTEuNTUyMy45NTMtMi4zNjM5Ni4yNDgtLjc4MTg5LjQ0Ni0xLjU2Mzc4LjYyNS0yLjI4MzExbC4wNjEtLjIzNzE4Yy4zMzUtMS4zNjgzLjYyOC0yLjU2MTk5IDEuMjc0LTMuNDgyMDEuMzM3LS40NzE5My43NTUtLjg4MTM1IDEuMjM1LTEuMjA5MzIuNTQ3LS4zNzEyMiAxLjE0Ny0uNjU3NzQgMS43ODEtLjg0OTY2LjYxLS4xODAwMiAxLjIzOS0uMjkxOTIgMS44NzQtLjMzMzYuNTkzLS4wNDY5MiAxLjE0LS4wNDY5MiAxLjY4OC0uMDQ2OTJ2LjYxNzdjLS40OCAwLS45NTcgMC0xLjM5My4wMzM4OC0uNDEzLjAyNjMzLS44MjIuMDk4OS0xLjIxOS4yMTYzMi0uNDkyLjE1MTUxLS45NTcuMzc2NTItMS4zOC42NjcyMS0uNDIyLjI5MTQ3LS43OS42NTMwMi0xLjA4NyAxLjA2ODU4LS42MTIuODczMTEtLjg5NyAyLjA0MDc0LTEuMjI3IDMuMzg4MTlsLS4wNi4yMzcxOGMtLjE3Ny43MjQ1NS0uMzc1IDEuNDk4NjItLjYzMSAyLjMwMTM2LS4yNTguODI1ODQtLjU4IDEuNjMwOTQtLjk2MyAyLjQwODI0LS40MjMuODUwNy0uOTQ1IDEuNjUwMS0xLjU1NCAyLjM4MjEtLjUxOS42MzEyLTEuMTQ0IDEuMTY5OC0xLjg0NyAxLjU5MjUtLjE4LjEwMTYtLjM2NC4xOTU1LS41NTIuMjc4OWgxLjU2OGMxLjg3IDAgNC4wMTggMCA1LjkyOCAxLjQyODIuOTA5LjcyNDMgMS42ODQgMS41OTgxIDIuMjkxIDIuNTgyOC43ODkgMS4yMzM5IDEuNDQ5IDIuNTQzOCAxLjk3MSAzLjkwOTUuNDkxIDEuMjk5NC45IDIuNjI3NyAxLjIyNCAzLjk3NzIuMzMgMS4zMzk2LjU4MSAyLjYwNjMuODA3IDMuODA1MmwuMDc0LjM5NjJjLjQyNSAyLjIzNjIuNzkyIDQuMTcgMS41ODQgNS42NTA0LjY5OSAxLjI3MTcgMS43NDggMi4zMjI0IDMuMDI2IDMuMDMxMS4yOTcuMTY3NC42MTguMjg4Ny45NTMuMzU5Ny4yMi4wMzE2LjQ0Mi4wNDM4LjY2NC4wMzY1di42MTc3Yy0uNDQxLjAxMS0uODgzLS4wMjEzLTEuMzE5LS4wOTY1LS41NDYtLjEwMTYtMS4wNzMtLjI4OS0xLjU1OS0uNTU1MS0uNzA1LS4zODM4LTEuMzUtLjg2NTctMS45MTYtMS40MzA5LS41NDYtLjUzOTMtMS4wMS0xLjE1MzgtMS4zNzctMS44MjQ0LS44MTYtMS41MDktMS4xODgtMy40NzQyLTEuNjE1LTUuNzMzOGwtLjA3NC0uMzkzNmMtLjIzMi0xLjIyMjMtLjQ4OC0yLjUxNS0uODA1LTMuNzk0Ny0uMzE5LTEuMzM4OS0uNzI1LTIuNjU2MS0xLjIxNi0zLjk0MzQtLjUxMS0xLjM0ODgtMS4xNTktMi42NDI5LTEuOTM0LTMuODYyNS0uNTc0LS45MzI3LTEuMzA2LTEuNzYxMy0yLjE2NC0yLjQ0OTktMS40NjctMS4wOTQ3LTMuMTEzLTEuMDk0Ny00LjU0Ni0xLjA5NDdoLTQuNDQ2di0uMDIwOGMtLjQ0Ni4wMjA4LS44ODEuMDIwOC0xLjI5OC4wMjA4aC0yLjcxM3YyMy41NjFoMy4xMTF2LjYxNzdoLTcuNzg2di0uNjE3N2gzLjExMXYtMzguNzUwNDZoLTMuMTExdi0uNjE3N2g3Ljc4NnYuNjE3N2gtMy4xMTF6bS0xOC45IDI0LjE3ODdoMi42MTVsLTE1LjYzNC0zNy43MzE0Mi0xNS42MzM0IDM3LjczMTQyaDMuMzkzMnYuNjE3NmgtNy43ODY1di0uNjE3NmgzLjY1MTlsMTYuNzI4OC00MC4zNzE2IDE2LjcyNiA0MC4zNzE2aDMuNzI1di42MTc2aC03Ljc4NnptLTg0LjgyNTMtMzguNzQyNjZ2MzguNzQyNjZoMy4xMDgzdi42MTc2aC03Ljc4NjV2LS42MTc2aDMuMTEzNXYtMzguNzQyNjZoLTI3LjU3ODUxdjM5LjA1Mjc2aC0xLjU4MzE1di0zOS4wNTI3NmgtMy4xMDAzNHYtLjYxNzdoMzYuOTQwMnYuNjE3N3oiPjwvcGF0aD48L3N2Zz4=" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame></text:span></text:a></text:p>
+<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="/materials" office:name=""><text:span text:style-name="Definition">статьи</text:span></text:a><text:a xlink:type="simple" xlink:href="/projects" office:name=""><text:span text:style-name="Definition">спецпроекты</text:span></text:a><text:a xlink:type="simple" xlink:href="https://click.polka.academy/" office:name=""><text:span text:style-name="Definition"><draw:frame draw:name="img2"><draw:image xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjI4IiB2aWV3Ym94PSIwIDAgMzkgMjgiIHdpZHRoPSIzOSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiM3YTI5NmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PHBhdGggZD0ibTIwLjMxMjkgMjgtMTIuMzE0ODUtMTIuNTI1M2MzLjI2Njg1LTMuMzQxNCA3LjY5NDU1LTUuMjAxIDEyLjMxNDg1LTUuMjAxIDQuNjM4OCAwIDkuMDY2NSAxLjg1NzMgMTIuMzMzMyA1LjE5ODZ6Ij48L3BhdGg+PHBhdGggZD0ibTMyLjE3MSAxMi41NzkuMDM0NC0zLjY5ODMzLTEuMTk1Mi0uODQtMS43NTczIDIuNjI3MzNjLTEuMDg5OC0uNTkwMy0yLjI0ODMtMS4wNTQ2Ny0zLjQyNTItMS40MzAzM2wuODQ0My00LjE0NjM0Yy4wODcxLS40MTA2Ni4xOTI3LS44NC4yOTgyLTEuMjE1NjZsLTQuOTE4NiA0LjYyOTMzYy0xLjIxMTMtLjEwNzMzLTIuMzg4Mi0uMTA3MzMtMy41ODM1LjAxODY3bC0zLjIzMjQtNi40NjgtLjc1NDguMTc5NjYtLjM2OTMgNy4yMzU2N2MtLjgyNTkuMjg3LTEuNjE3NC42MjUzLTIuNDA2NiAxLjAxOTdsLTQuODQ5NzYtLjk4MjM3LTEuMDAyNTMgMS4wMzU5NyAyLjI2NjYgMi4zMjRjLS40OTA5NC40MTA3LS45NjU4My44NC0xLjQwNjMgMS4zMDQ0bC01LjkwMDUxLTUuOTg5N2MuNDU2NTMtLjQ2NDMzLjkzMTQyLS45MTIzMyAxLjQwNjMtMS4zMzkzM2wyLjQwNjU1IDIuNDQ3NjYuOTQ5NzctLjk2Ni4xNTgyOS00LjEwOWMuNTI3NjUtLjM0MDY2IDEuMDcxMzYtLjY2MDMzIDEuNjE3MzctLjk2NmwtLjA5MTc3IDQuNTIyIDUuMDQyNDkgMS4wMTk2Ny40MDM4LTcuNzM3MzNjMS4yMTEzLS4zNTcwMDMgMi40NDA5LS42MjUzMzcgMy42ODg5LS44MDUwMDNsMy43MjM0IDcuNDM0MDAzIDEuNTgzLTcuNjgzNjdjLjYzMzIuMDM1IDEuMjY0LjA4ODY2NjcgMS45MTU2LjE2MWwtLjg5NyA0LjM3NzMzYy0uMDg3Mi40MTA2Ny0uMTkyNy44NTg2Ny0uMjk4MyAxLjIxNTY3bDUuMTI5Ny00LjgwNjY2N2MuNTk2NS4xNjA5OTcgMS4yMTEzLjM1Njk5NyAxLjgxMDEuNTcxNjY3bC0xLjYzMzQgOC4wMDU2NyA0LjU0OTItNi43OWMuNTgwNC4yODcgMS4xNDI1LjU5MDMzIDEuNzA0Ni45MTIzM2wtMS45ODQ1IDIuOTQ5MzMgMS4xNzY5LjgyMTM0IDQuMDkyOC0xLjUxOWMuNTI3Ni40MTA2NiAxLjA1My44NCAxLjU0NjIgMS4zMDQzM2wtNC44NDk4IDEuNzUtLjA1MjggNS4xODIzYy0uNTU5Ny0uNTU1My0xLjEyNDEtMS4wNzMzLTEuNzM4OS0xLjU1NjN6Ij48L3BhdGg+PC9nPjwvc3ZnPg==" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame></text:span></text:a></text:p>
+<text:p text:style-name="Text_20_body"><draw:frame draw:name="img3"><draw:image xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjI2IiB2aWV3Ym94PSIwIDAgMjYgMjYiIHdpZHRoPSIyNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjb2xvcj48ZyBzdHJva2U9IiMzMzMiPjxwYXRoIGQ9Im0xMCAxNi00IDQiPjwvcGF0aD48cGF0aCBkPSJtMTMuNSAxN2MzLjAzNzYgMCA1LjUtMi40NjI0IDUuNS01LjUgMC0zLjAzNzU3LTIuNDYyNC01LjUtNS41LTUuNXMtNS41IDIuNDYyNDMtNS41IDUuNWMwIDMuMDM3NiAyLjQ2MjQgNS41IDUuNSA1LjV6Ij48L3BhdGg+PC9nPjwvc3ZnPg==" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame></text:p>
+<text:p text:style-name="Text_20_body"><draw:frame draw:name="img4"><draw:image xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjI2IiB2aWV3Ym94PSIwIDAgMjYgMjYiIHdpZHRoPSIyNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjb2xvcj48ZyBzdHJva2U9IiMzMzMiPjxwYXRoIGQ9Im0xMCAxNi00IDQiPjwvcGF0aD48cGF0aCBkPSJtMTMuNSAxN2MzLjAzNzYgMCA1LjUtMi40NjI0IDUuNS01LjUgMC0zLjAzNzU3LTIuNDYyNC01LjUtNS41LTUuNXMtNS41IDIuNDYyNDMtNS41IDUuNWMwIDMuMDM3NiAyLjQ2MjQgNS41IDUuNSA1LjV6Ij48L3BhdGg+PC9nPjwvc3ZnPg==" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame></text:p></text:section>
+<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="/materials" office:name=""><text:span text:style-name="Definition"></text:span></text:a></text:p>
+<text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="статьи" />Статьи<text:bookmark-end text:name="статьи" /></text:h>
+<text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="век-державина" />Век
+Державина<text:bookmark-end text:name="век-державина" /></text:h>
+<text:p text:style-name="First_20_paragraph">21 April</text:p>
+<text:p text:style-name="Text_20_body">Валерий Шубинский</text:p>
+<text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="полка-продолжает-большой-курс-история-русской-поэзии-в-третьей-лекции-валерий-шубинский-рассказывает-о-завершении-xviii-века-времени-после-ломоносова.-это-было-пёстрое-время-в-нём-соседствовали-эпические-опыты-михаила-хераскова-и-бурлескные-комические-поэмы-василия-майкова-трогательная-и-сентиментальная-душечка-ипполита-богдановича-и-сложная-натурфилософская-лирика-михаила-муравьёва.-но-первым-поэтом-главным-новатором-этой-эпохи-был-конечно-гавриил-державин-он-и-стал-главным-героем-лекции." />«Полка»
+продолжает большой курс «История русской поэзии»: в третьей лекции
+Валерий Шубинский рассказывает о завершении XVIII века — времени после
+Ломоносова. Это было пёстрое время: в нём соседствовали эпические опыты
+Михаила Хераскова и бурлескные, комические поэмы Василия Майкова,
+трогательная и сентиментальная «Душечка» Ипполита Богдановича и сложная
+натурфилософская лирика Михаила Муравьёва. Но первым поэтом, главным
+новатором этой эпохи был, конечно, Гавриил Державин — он и стал главным
+героем
+лекции.<text:bookmark-end text:name="полка-продолжает-большой-курс-история-русской-поэзии-в-третьей-лекции-валерий-шубинский-рассказывает-о-завершении-xviii-века-времени-после-ломоносова.-это-было-пёстрое-время-в-нём-соседствовали-эпические-опыты-михаила-хераскова-и-бурлескные-комические-поэмы-василия-майкова-трогательная-и-сентиментальная-душечка-ипполита-богдановича-и-сложная-натурфилософская-лирика-михаила-муравьёва.-но-первым-поэтом-главным-новатором-этой-эпохи-был-конечно-гавриил-державин-он-и-стал-главным-героем-лекции." /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="https://polka.academy/materials/908" office:name=""><text:span text:style-name="Definition">Предыдущая
+лекция</text:span></text:a></text:p>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body">Гавриил Державин</text:p>
+<text:p text:style-name="Text_20_body">Ломоносов и Сумароков породили
+традиции, соперничавшие между собой в следующем поколении. Ломоносовская
+линия была представлена в большей мере разночинцами с семинарским
+образованием (таковы были, кстати, и Поповский Николай Никитич Поповский
+(1730–1760) — философ, поэт, переводчик. Один из любимых учеников
+Ломоносова. Преподавал в Московском университете, предпринимал попытку
+синтеза христианской философии с западным естественно-научным знанием.
+Переводил Горация, «Опыт о человеке» Александра Поупа. ⁠ , и Барков Иван
+Семёнович Барков (1732–1768) — поэт, переводчик. Один из учеников
+Ломоносова. Славу Баркову принесли «срамные» оды — непечатная для того
+времени эротическая поэзия, которая распространялась в списках.
+Барковские эротические сочинения породили множество подражаний. Кроме
+того, Барков был автором вполне пристойных по содержанию сочинений —
+биографии Кантемира, переводов из Горация и других античных классиков. ⁠
+), сумароковская — дворянами. Наиболее признанные современниками поэты
+1760–70-х годов, Василий Петров (1736–1799) и Михаил Херасков
+(1733–1807), воплощают эти две линии.</text:p>
+<text:p text:style-name="Text_20_body">У Петрова ломоносовское высокое
+витийство отрывается и от своих метафизических основ, и от идей
+государственного преобразования. Его карьера начинается с «Оды на
+великолепный карусель, представленный в Петербурге 1766 года». Сочетание
+пышности описаний («И вы, поторы От латинского potor — «пьяница». ⁠
+Олимпийски, / Вы в равенстве стать с оным низки…») и ничтожности
+предмета (карусель здесь — торжественный конный выезд) тем больше
+бросается в глаза, что Петров не создаёт, как Ломоносов, новый язык и не
+увлекается этой работой: он работает уже по готовым лекалам, и его пафос
+натужен. В иных случаях содержание более значительно («На войну с
+турками», 1769), но Петров и здесь не выдерживает заданного высокого
+тона. Пышная риторика («Султан ярится! ада дщери, / В нем фурии раздули
+гнев. / Дубравные завыли звери, / И волк и пес разинул зев») переходит в
+плоскую политическую пропаганду.</text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body">Василий Петров</text:p>
+<text:p text:style-name="Text_20_body">Новизна од Петрова — в их
+строфике. Живший одно время в Англии, он стал использовать сложные
+разностопные строфы — в духе Джона Драйдена Джон Драйден (1631–1700) —
+английский поэт, драматург, переводчик и критик. Один из первых членов
+Лондонского Королевского общества. С именем Драйдена связывают переход
+английской поэзии от барокко к классицизму. Перевёл на английский
+«Энеиду» Вергилия. ⁠ . Так написана, например, ода адмиралу
+Мордвинову:</text:p>
+<text:p text:style-name="P2">Среди огней и льдов, искатель тайн в
+натуре<text:line-break />Многоопасный правит
+путь.<text:line-break />Герой летит на брань, подобен шумной
+буре,<text:line-break />Под рок, под пушки ставит
+грудь;<text:line-break />Забыв о плоти
+тленной,<text:line-break />Противу стать
+вселенной,<text:line-break />Против тьмы тем
+врагов,<text:line-break />За отчество готов.</text:p>
+<text:p text:style-name="First_20_paragraph">Но по языку эти стихи,
+написанные уже в 1796 году, звучат довольно архаично, по тону
+холодно-официальны — и бесконечно затянуты. Впрочем, в стихах, согретых
+личным чувством («Смерть сына моего», 1795), и в сатирах Петров гораздо
+более жив и куда менее риторичен:</text:p>
+<text:p text:style-name="P3">И диво ль, что у нас пииты столь
+плодятся,<text:line-break />Как от дождя грибы в березнике
+родятся?<text:line-break />Однако мне жалка таких пиит
+судьба,<text:line-break />Что их и слог стоит не долее гриба.</text:p>
+<text:p text:style-name="First_20_paragraph">Попытка создать русский
+эпос у Петрова выливается в многолетнюю работу над переложением «Энеиды»
+(по заказу Екатерины II). Позднее (в 1787–1796 годах) Ермил Костров
+(1755–1796) перевёл александрийским стихом Александрийский стих —
+французский двенадцатисложный стих с цезурой (паузой) после шестого
+слога, с ударением на шестом и двенадцатом слоге. Тексты, написанные
+александрийским стихом, соблюдают правило чередования рифмовки: за двумя
+мужскими рифмами следуют две женские. В русской поэзии александрийский
+стих передаётся шестистопным ямбом с цезурой после третьей стопы. ⁠
+«Илиаду».</text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body">Михаил Херасков</text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body">Первая страница первого издания
+поэмы Хераскова «Россиада». 1779 год</text:p>
+<text:list text:style-name="L1">
+  <text:list-item>
+  </text:list-item>
+  <text:list-item>
+  </text:list-item>
+</text:list>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body">Григорий Угрюмов. Взятие Казани
+Иваном Грозным 2 октября 1552 года. Русский музей</text:p>
+<text:p text:style-name="Text_20_body">Херасков же предпринимает
+последнюю значимую попытку написать большой эпос на материале русской
+истории — причём выбирает не петровские деяния, а завоевание Иваном
+Грозным Казани. «Россиада» (1771–1778) была, не в пример эпосу Кантемира
+и Ломоносова, дописана, объявлена современниками «бессмертной», чтобы
+быть осмеянной и забытой менее чем через полвека. Впрочем, на периферии
+литературного процесса эпигоны классицизма пытались создавать эпические
+поэмы такого типа вплоть до 1830-х годов.</text:p>
+<text:p text:style-name="Text_20_body">Иоанн Грозный в «Россиаде» —
+прекрасный молодой государь, и о его грядущей тирании даже не
+упоминается (хотя Ломоносов в дипломатичной форме касается этой темы в
+«Кратком российском летописце» «Краткий российский летописец с
+родословием» (1760) — первый российский учебник отечественной истории,
+написанный Михаилом Ломоносовым. Был написан для наследника российского
+престола — будущего Павла I. ⁠ ). Правда, молодой Иоанн на некоторое
+время погряз в праздности и унынии, и злокозненные татары начали
+угнетать христиан, но явившиеся во сне духи предков и мудрый советник
+Адашев пробуждают его к деятельности. Вполне положительным персонажем
+оказывается Курбский Князь Андрей Михайлович Курбский (1528–1583) —
+полководец, политический деятель, писатель. Был приближённым Ивана IV
+Грозного, участником нескольких его походов. В 1563 году, во время
+Ливонской войны, получив сведения о том, что ему грозит опала, бежал в
+Великое княжество Литовское. В эмиграции вёл долгую переписку с Иваном
+Грозным, оппонировал ему в вопросах управления государством. ⁠ .
+Политически поэма была весьма уместна в свете войн с исламской Турцией и
+грядущего «покоренья Крыма». В то же время Херасков явно фрондирует, в
+красках изображая двор «коварной» казанской царицы Сумбеки (Екатерина
+предпочла не заметить этого намёка). Вслед за Ломоносовым и его
+французскими предшественниками Херасков пользуется александрийским
+стихом и не чуждается «высокой» лексики; но и стремление к
+занимательности, и апология аристократической независимости — от
+Сумарокова. </text:p>
+<text:p text:style-name="Text_20_body">Впрочем, в большей степени
+Херасков наследует Сумарокову в коротких стихах — анакреонтических
+Анакреонтическая лирика — поэзия, близкая по духу произведениям
+древнегреческого поэта Анакреонта. Основные её мотивы — радость жизни,
+любовь, наслаждение и веселье. Анакреонтикой иногда называют не только
+подражательные произведения, но и переводы самого Анакреонта или стихи,
+которые ему приписывают. ⁠ и нравоучительных одах, в эклогах Античный
+поэтический жанр, идиллия, представляющая собой картину из сельской,
+пастушеской жизни. ⁠ , эпиграммах. Язык его здесь предельно прост, и от
+Сумарокова он отличается культом смиренного частного бытия (симпатии
+поэта принадлежат тем, «кто без печали / довольствуется тем, что небеса
+послали») и простодушной философичностью, переходящей в столь же
+простодушную дидактику:</text:p>
+<text:p text:style-name="P5">На что же все мы
+сотворенны,<text:line-break />Когда не значим
+ничего?<text:line-break />Такие тайны сокровенны<text:line-break />От
+рассужденья моего;<text:line-break />Но то я знаю, что
+содетель<text:line-break />Велит любити добродетель.</text:p>
+<text:p text:style-name="First_20_paragraph">Херасков, как и Сумароков,
+отдал дань разным жанрам — от трагедии «Венецианская монахиня» (1758) до
+духовных од на библейские мотивы, одна из которых — «Коль славен наш
+Господь в Сионе» (1778) — некоторое время была государственным гимном
+Российской империи.</text:p>
+<text:p text:style-name="Text_20_body">Рядом с Херасковым часто
+упоминают Алексея Ржевского (1737–1804), смолоду необыкновенно
+плодовитого, но рано замолчавшего. Написанные по сумароковским лекалам
+элегии и дидактические оды он пытался разнообразить, вводя новые формы
+стиха (между прочим, он первым из русским поэтов много писал сонеты) и
+прибегая к различным формальным кунштюкам («Ода, собранная из
+односложных слов»). </text:p>
+<text:p text:style-name="Text_20_body"><draw:frame draw:name="img5"><draw:image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMCIgaGVpZ2h0PSIxNSIgdmlld2JveD0iMCAwIDMwIDE1Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiMzMzMiIGQ9Ik0yMS40NjcgMTQuOTk4bC0uNzg0LS44TDI3LjcyNiA4SDBWN2gyNy43MzNMMjAuNjgzLjc5NmwuNzg0LS44IDguNTIzIDcuNUwyMS40NjcgMTV6Ij48L3BhdGg+PC9zdmc+" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame><draw:frame draw:name="img6"><draw:image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMCIgaGVpZ2h0PSIxNSIgdmlld2JveD0iMCAwIDMwIDE1Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiMzMzMiIGQ9Ik0yMS40NjcgMTQuOTk4bC0uNzg0LS44TDI3LjcyNiA4SDBWN2gyNy43MzNMMjAuNjgzLjc5NmwuNzg0LS44IDguNTIzIDcuNUwyMS40NjcgMTV6Ij48L3BhdGg+PC9zdmc+" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="денис-фонвизин" />Денис
+Фонвизин<text:bookmark-end text:name="денис-фонвизин" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="алексей-ржевскии" />Алексей
+Ржевский<text:bookmark-end text:name="алексей-ржевскии" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="яков-княжнин" />Яков
+Княжнин<text:bookmark-end text:name="яков-княжнин" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="денис-фонвизин-1" />Денис
+Фонвизин<text:bookmark-end text:name="денис-фонвизин-1" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="алексей-ржевскии-1" />Алексей
+Ржевский<text:bookmark-end text:name="алексей-ржевскии-1" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="яков-княжнин-1" />Яков
+Княжнин<text:bookmark-end text:name="яков-княжнин-1" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="денис-фонвизин-2" />Денис
+Фонвизин<text:bookmark-end text:name="денис-фонвизин-2" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="алексей-ржевскии-2" />Алексей
+Ржевский<text:bookmark-end text:name="алексей-ржевскии-2" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="яков-княжнин-2" />Яков
+Княжнин<text:bookmark-end text:name="яков-княжнин-2" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body">Вообще если «Россиада» была
+единственным успешным в эпоху классицизмапроектом «высокого эпоса», то
+на произведения «среднего рода» (согласно классицистической системе
+жанров В европейской литературе классицизма была разработана иерархия
+«высоких», «средних» и «низких» жанров. К высоким жанрам относили
+трагедию, оду, героическую поэму; к средним, например, дружеское
+послание; к низким — комедию, басню, сатиру. ⁠ ) 1760–70-е были довольно
+богаты — в диапазоне от обаятельных любовных песен Михаила Попова
+(1742–1790) до единственного значительного поэтического произведения
+драматурга Дениса Фонвизина (1745–1792) — «Послания к слугам моим,
+Шумилову, Ваньке и Петрушке» (1766), написанного очень живым языком и
+пронизанного философическим скепсисом:</text:p>
+<text:p text:style-name="P6">Создатель твари всей, себе на
+похвалу,<text:line-break />По свету нас пустил, как кукол по
+столу.<text:line-break />Иные резвятся, хохочут, пляшут,
+скачут,<text:line-break />Другие морщатся, грустят, тоскуют,
+плачут.<text:line-break />Вот как вертится свет! А для чего он
+так,<text:line-break />Не ведает того ни умный, ни дурак.</text:p>
+<text:p text:style-name="First_20_paragraph">Верным последователем
+Сумарокова в стихотворной драматургии и в лирике был его зять Яков
+Княжнин (1740–1791), а чуть позднее эту линию продолжил Николай Николев
+(1758–1815). Княжнин, как и его тесть, в трагедических монологах
+патетичен, возвышен и прямолинеен, но в немногочисленных лирических и
+сатирических «пустячках» часто оригинален и выразителен.</text:p>
+<text:p text:style-name="Text_20_body">Образцами «низкого стиля» (но не
+барковианы Эротические произведения Ивана Баркова вызвали множество
+подражаний; многие непристойные поэтические тексты приписывались
+Баркову, в том числе спустя десятилетия после его смерти (самый
+известный текст «под Баркова» — поэма «Лука Мудищев», написанная,
+вероятнее всего, во второй половине XIX века). ⁠ !) в эти годы могут
+служить «Стихи на качели» (1769) и «Стихи на Семик Семик —
+восточнославянский праздник дохристианского происхождения, привязанный к
+православному календарю. Отмечался в седьмой четверг после Пасхи, за три
+дня до Троицы. ⁠ » (1769) Михаила Чулкова (1744–1792). Грубость предмета
+и лексики сочетаются здесь с травестированной высокой
+риторикой:</text:p>
+<text:p text:style-name="P7">Земля от топота шатающихся
+стонет,<text:line-break />И всякий мещанин в вине и пиве
+тонет,<text:line-break />Тюльпаны красные на лицах их
+цветут<text:line-break />И розы на устах прекрасные растут. </text:p>
+<text:p text:style-name="First_20_paragraph">На таком травестировании
+построен жанр ироикомической поэмы. Василий Майков (1728–1778)
+прославился именно как поэт этого жанра, хотя писал в разных (от
+духовных од до басен). Первым его опытом был «Игрок ломбера» (1763), в
+котором слогом «Илиады» описывается карточная игра. Но славу Майкову
+составила поэма «Елисей, или Раздраженный Вакх» (1771). Её герой, ямщик
+Елисей, — человек того же социального круга, что и «фабричны храбрые
+борцы» и «холоп Алёшка» из барковской оды «Кулачному бойцу». Но Майков
+не «андеграундный» автор: он создаёт свою поэму для печати — правда, в
+эпоху далёкую от пуританства. Если Барков — ученик Ломоносова и,
+«выворачивая наизнанку» патетическую оду с её риторическими украшениями,
+не стремится скомпрометировать этот жанр и стиль, то Майков —
+сумароковец. Он язвительно смеётся над пышными метафорами Василия
+Петрова и его раздутой репутацией и восхваляет Хераскова. В основе его
+поэтической речи — «средний штиль», который он оживляет то вульгарными
+бытовыми деталями, то пародийной эпической торжественностью. Приключения
+пьяницы и буяна Елисея объясняются вмешательством олимпийских богов —
+прежде всего Вакха, рассерженного на винных откупщиков Винный откуп —
+право на торговлю спиртными напитками, которое государство за деньги
+предоставляло частным предпринимателям (они и назывались откупщиками).
+Откупщики продавали алкоголь гораздо дороже, чем покупали на заводах,
+это вызывало возмущение. Винные откупы существовали в России с XVI века
+до 1863 года, когда их заменили государственным акцизом. ⁠ (из-за которых
+растёт цена на алкоголь и уменьшается его потребление). Вакх избрал
+Елисея орудием мести, но Церера и Зевс этим недовольны. Пародийных
+отсылок к античному эпосу у Майкова больше чем достаточно. Так, Елисей
+прячется от преследующей его за драки полиции в Калинкином доме (убежище
+для раскаявшихся проституток), выдавая себя за «девку» (отсылка к двум
+сюжетам: Ахилл на Скиросе Сюжет греческой мифологии. Поскольку Ахиллу
+была предсказана гибель на Троянской войне, его мать Фетида отправила
+его на остров Скирос, где он прятался среди дочерей царя Ликомеда,
+переодетый в девичью одежду. Чтобы вынудить Ахилла сражаться на стороне
+греков, Одиссей прибыл на Скирос и хитростью разоблачил героя. ⁠ и Геракл
+у Омфалы Сюжет греческой мифологии. За убийство аргонавта Ифита Геракл
+был продан в рабство лидийской царице Омфале, которая унижала героя,
+переодевала его в женскую одежду и заставляла выполнять женскую работу.
+Впоследствии Геракл стал любовником Омфалы, и она родила от него одного
+или нескольких сыновей. ⁠ ). Затем он становится любовником начальницы
+убежища, покидает её — и сюжет завершается так:</text:p>
+<text:p text:style-name="P8">Хотя прошло еще тому не много
+дней,<text:line-break />Как отбыл от сея Дидоны прочь
+Эней,<text:line-break />Но оная не так, как прежняя,
+стенала<text:line-break />И с меньшей жалостью Елесю
+вспоминала;<text:line-break />Она уже о нем и слышать не
+могла,<text:line-break />Портки его, камзол в печи своей
+сожгла,<text:line-break />Когда для пирогов она у ней
+топилась,<text:line-break />И тем подобною Дидоне учинилась.</text:p>
+<text:p text:style-name="First_20_paragraph">Любопытно, что и эта поэма
+заканчивается (по мудрому суду Зевеса) торжеством государственного
+порядка:</text:p>
+<text:p text:style-name="P9">…Елесеньке весь лоб подбрили до
+ушей;<text:line-break />Какой бы это знак, куда Елесю
+рядят,<text:line-break />Неужели его и впрямь во службу
+ладят?<text:line-break />Увы, то истина! был сделан
+приговор:<text:line-break />«Елеська как беглец, а может быть и
+вор,<text:line-break />Который никакой не нёс мирския
+платы,<text:line-break />Сведён в военную и отдан там в
+солдаты».</text:p>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body">«Виргилиева Энеида, вывороченная
+наизнанку» Николая Осипова. «Елисей, или Раздраженный Вакх» Василия
+Майкова</text:p>
+<text:p text:style-name="Text_20_body">Жанр ироикомической поэмы
+продолжал развиваться. Опубликованная в 1791–1796 годах «Вергилиева
+Энеида, вывороченная наизнанку» Николая Осипова (1751–1799) важна хотя
+бы потому, что послужила образцом и отчасти источником для произведений,
+стоявших у истока новой украинской и белорусской поэзии, — «Энеид» Ивана
+Котляревского и Викентия Ровинского. Впрочем, для самого Осипова таким
+же источником и образцом служил «Вергилий наизнанку» Скаррона. В такого
+рода поэмах не «низменный» сюжет излагается высоким языком, а
+травестируется сюжет канонического эпоса. </text:p>
+<text:p text:style-name="Text_20_body">Ученик и друг Хераскова Ипполит
+Богданович (1743–1803) создал другой тип «несерьёзного эпоса» —
+лирический. Богданович изначально был человеком другого поколения: он
+уже испытывал влияние охвативших Европу руссоистских идей и
+сентименталистской эстетики. В поэме «Блаженство народов» (1765) он
+воспевает «естественное состояние» человека, свободное от пороков. В
+духе новой эпохи и интерес Богдановича к фольклору. Даже используя уже
+ставшие традиционными мотивы (например, пасторальные), он
+экспериментирует, доходя до гротеска и эксцентрики:</text:p>
+<text:p text:style-name="P10">У речки птичье стадо<text:line-break />Я с
+утра стерегла;<text:line-break />Ой Ладо, Ладо,
+Ладо!<text:line-break />У стада я легла.<text:line-break />А утки-то
+кра, кра, кра, кра;<text:line-break />А гуси-то га, га, га,
+га.<text:line-break />Га, га, га, га, га, га, га, га, га, га.</text:p>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body">Душенька любуется собою в
+зеркало. Иллюстрация Фёдора Толстого к «Душеньке» Ипполита Богдановича.
+1821 год</text:p>
+<text:p text:style-name="Text_20_body">В «Душеньке» (1775–1783),
+принесшей Богдановичу славу, поэт снижает пафос мифологического сюжета,
+но не ставит себе задачу пародировать или дискредитировать его. История
+любви Амура и Психеи рассказывается «простым» языком и (в основном)
+разностопным ямбом, ассоциирующимся с басней, не смеха ради, а потому,
+что поэт предельно приближает её к читателю. Не только имя Психеи
+переведено на русский язык — сам слог, которым она описывается и
+говорит, полностью разрушает дистанцию:</text:p>
+<text:p text:style-name="P11">Беднейшая в полях
+пастушка<text:line-break />Себе имеет пастуха:<text:line-break />Одна
+лишь я не с кем не дружка<text:line-break />Не быв дурна, не быв
+лиха!</text:p>
+<text:p text:style-name="First_20_paragraph">Миф обживается,
+очеловечивается, становится занимательной — и притом вполне русской —
+сказкой. Богданович — хороший рассказчик, чувствительный и лукавый; сам
+стих его разнообразен и подчинён логике повествования. Он легко
+переходит от лиризма к изобретательному гротеску:</text:p>
+<text:p text:style-name="P12">       Ужасные
+пещеры,<text:line-break />       И к верху
+крутизны,<text:line-break />       И к бездне
+глубины,<text:line-break />       Без вида и без
+меры,<text:line-break />    Иным являлись там
+мегеры,<text:line-break />    Иным летучи
+дромадеры,<text:line-break />    Иным драконы и
+церберы,<text:line-break />Которы ревами, на разные
+манеры,<text:line-break />         Глушили
+слух,<text:line-break />         Мутили дух.</text:p>
+<text:p text:style-name="First_20_paragraph">Для современников
+«бессмертна «Россияда» символизировала поэзию высокую, а «Душенька» —
+лёгкую; но поэму Хераскова скорее почитали, а Богдановича — читали по
+велению сердца. И это «русское рококо» сохраняет своё обаяние
+поныне. </text:p>
+<text:p text:style-name="Text_20_body">Время появления «Душеньки» не
+случайно совпало с началом новой эпохи в истории русской
+поэзии. <text:line-break /> </text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body">Гавриил Державин в
+молодости</text:p>
+<text:p text:style-name="Text_20_body">Крупнейший русский поэт
+допушкинской поры Гавриил (Гаврила) Романович Державин (1743–1816) был
+ровесником Богдановича, но всерьёз дебютировал почти двумя десятилетиями
+позже. Его первая книга «Оды, переведенные и сочиненные при горе
+Читалагае» (1774, изд. 1776), созданная уже в зреломвозрасте, всё ещё
+подражательна: Державин в большей степени подражает Сумарокову, чем
+Ломоносову — хотя в 1768 году и написал на Сумарокова две эпиграммы, в
+одной из которых «защищал» от него покойного Ломоносова. Переводил
+Державин при горе Читалагай оды прусского короля Фридриха II (по
+немецкому переложению с французского). В эти же годы он пытался
+перевести «Мессиаду» Клопштока Фридрих Готлиб Клопшток (1724–1803) —
+немецкий поэт. Автор од, исторических драм, публицистических сочинений.
+На протяжении 30 лет сочинял эпопею «Мессиада», в основу которой были
+положены легенды о жизни Христа. Основоположник гражданской поэзии в
+Германии. ⁠ . </text:p>
+<text:p text:style-name="Text_20_body">В 1770-е годы Державин сблизился
+с кружком молодых поэтов, в который входили Николай Львов (1753–1803),
+Иван Хемницер (1745–1784) и Василий Капнист (1756–1823). Всех этих
+поэтов объединяло стремление к обновлению поэтического языка. Споры
+между ломоносовцами и сумароковцами были для них уже неактуальны.
+Идеолог кружка, Львов, выдающийся архитектор и музыкант, для которого
+поэзия была лишь одним из проявлений творческой активности, находился
+под влиянием идей немецкого философа Иоганна Готфрида Гердера. Он
+переводил анакреонтику, видя в ней стихийное искусство, передающее
+«народный дух». К такому же результату он стремился, подражая русскому
+фольклору, — например, в экспериментальном переводе «Песни Гаральда
+Храброго» Одна из песен, приписываемых королю Норвегии Харальду III
+Суровому. Описывает страдания Харальда по Елизавете Ярославне, дочери
+Ярослава Мудрого, которая не снисходит к его любви, несмотря на его
+многочисленные подвиги. Елизавета Ярославна впоследствии всё-таки стала
+женой Харальда. Песнь переводили на русский кроме Львова Карамзин,
+Богданович и Батюшков. ⁠ . Жалобу норвежского короля-скальда («меня не
+хочет видеть девушка в Гардах») Львов передаёт так: «А меня ни во что
+ставит девка русская». (Другой, близкий по стилистике перевод
+принадлежит Богдановичу и относится к этому же времени.) </text:p>
+<text:p text:style-name="Text_20_body">В лучшем стихотворении Львова —
+«Ночь в чухонской избе на пустыре» (1797) — влияние «кладбищенских»
+предромантических мотивов немецкой и английской поэзии (Эдварда Юнга,
+Томаса Грея) накладывается на почти «былинный» стих и слог:</text:p>
+<text:p text:style-name="P13">Волки воют... ночь
+осенняя,<text:line-break />Окружая мглою тёмною<text:line-break />Ветхой
+хижины моей покров,<text:line-break />Посреди пустыни
+мёртвыя<text:line-break />Множит ужасы — и я один!</text:p>
+<text:p text:style-name="First_20_paragraph"><draw:frame draw:name="img7"><draw:image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMCIgaGVpZ2h0PSIxNSIgdmlld2JveD0iMCAwIDMwIDE1Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiMzMzMiIGQ9Ik0yMS40NjcgMTQuOTk4bC0uNzg0LS44TDI3LjcyNiA4SDBWN2gyNy43MzNMMjAuNjgzLjc5NmwuNzg0LS44IDguNTIzIDcuNUwyMS40NjcgMTV6Ij48L3BhdGg+PC9zdmc+" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame><draw:frame draw:name="img8"><draw:image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMCIgaGVpZ2h0PSIxNSIgdmlld2JveD0iMCAwIDMwIDE1Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiMzMzMiIGQ9Ik0yMS40NjcgMTQuOTk4bC0uNzg0LS44TDI3LjcyNiA4SDBWN2gyNy43MzNMMjAuNjgzLjc5NmwuNzg0LS44IDguNTIzIDcuNUwyMS40NjcgMTV6Ij48L3BhdGg+PC9zdmc+" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="василии-капнист" />Василий
+Капнист<text:bookmark-end text:name="василии-капнист" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="николаи-львов" />Николай
+Львов<text:bookmark-end text:name="николаи-львов" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="иван-хемницер" />Иван
+Хемницер<text:bookmark-end text:name="иван-хемницер" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="василии-капнист-1" />Василий
+Капнист<text:bookmark-end text:name="василии-капнист-1" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="николаи-львов-1" />Николай
+Львов<text:bookmark-end text:name="николаи-львов-1" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="иван-хемницер-1" />Иван
+Хемницер<text:bookmark-end text:name="иван-хемницер-1" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="василии-капнист-2" />Василий
+Капнист<text:bookmark-end text:name="василии-капнист-2" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="николаи-львов-2" />Николай
+Львов<text:bookmark-end text:name="николаи-львов-2" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="иван-хемницер-2" />Иван
+Хемницер<text:bookmark-end text:name="иван-хемницер-2" /></text:h>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body">Хемницер, хотя он работал в
+разных жанрах, известен прежде всего как баснописец. После Сумарокова и
+Майкова он преобразил басенный жанр, избавив его от примитивной
+анекдотичности, облагородив повествование и прибавив суховатой
+язвительности. Образцом для него был не Лафонтен, а немецкая басня (
+Геллерт Христиан Фюрхтеготт Геллерт (1715–1769) — немецкий
+поэт-баснописец, филолог, философ. Автор диссертации по истории и теории
+басни. ⁠ ). (Заметим, что немецкий был родным языком Хемницера и он
+немного писал на нём наряду с русским.) Он не прочь и пофилософствовать,
+но в то же время не жалеет яда для того, что кажется ему праздной и
+абстрактной учёностью, — например, в знаменитой басне «Метафизический
+ученик»:</text:p>
+<text:p text:style-name="P14">    Попался к школьным он
+вралям,<text:line-break />Неистолкуемым дающим толк
+вещам;<text:line-break />И словом, малого век дураком
+пустили.<text:line-break />Бывало, глупости он попросту
+болтал,<text:line-break />Теперь ученостью он толковать их
+стал.<text:line-break />Бывало, лишь глупцы его не
+понимали,<text:line-break />А ныне разуметь и умные не стали.</text:p>
+<text:p text:style-name="First_20_paragraph">Отзвук этой басни (про
+заучившегося «глупца», который, свалившись в яму, продолжает «искать
+начало всех начал» вместо того, чтобы воспользоваться предложенной
+помощью) обнаруживается в русской поэзии и через двести лет — в «Яме»
+(1971) Олега Григорьева. </text:p>
+<text:p text:style-name="Text_20_body">Капнист остался в литературе в
+двух разных ипостасях. С одной стороны — как автор стихотворной комедии
+о судебной коррупции «Ябеда» (1798), лишённой ярких характеров и
+простенькой по сюжету, но написанной очень живым языком, которого не
+сковывает и однообразие александрийского стиха. С другой —
+многочисленными лирическими стихотворениями, среди которых есть и
+пронизанные либеральными (в рамках дозволенного) чувствами оды.
+Например, в «Оде на рабство» (1783) робко осуждается распространение
+крепостного права на Украину. Три года спустя Капнист пишет «Оду на
+истребление в России звания раба». Есть у него и многочисленные гладкие
+и сентиментальные лирические «безделки». Слог Капниста не только лёгок,
+но и совсем по-новому эмоционален и благозвучен:</text:p>
+<text:p text:style-name="P15">Томны отголоски! песнь мою
+печальну<text:line-break />   Холмам‎ отнесите;<text:line-break />В низ
+потока быстра, сквозь дубраву дальну,<text:line-break />   ‎В рощах
+повторите.</text:p>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body">Гавриил Державин. На смерть князя
+Мещерского. Страница из рукописного собрания стихотворений Державина,
+которое поэт в 1795 году поднёс Екатерине II. Стихотворения были
+переписаны писцом, а иллюстрации выполнены Алексеем Олениным — другом
+Державина, будущим директором Императорской Академии художеств.</text:p>
+<text:p text:style-name="Text_20_body">Державин был в этой компании
+самым старшим — но без влияния Львова, возможно, не нашёл бы себя. В
+любом случае его «настоящая» поэтика начинается со стихов 1779 года —
+оды «На рождение в Севере порфирородного отрока», «Ключа» и великой оды
+«На смерть князя Мещерского». В этих стихах — то, что было общим для
+всех значимых поэтов поколения, так или иначе тронутых
+предромантическими влияниями: перенос внимания с державного величия и
+нужных государству и обществу абстрактных добродетелей на частный опыт и
+человеческие чувства. Но лишь Державин смог при этом сохранить одический
+пафос Ломоносова — поскольку переживал частное как
+экзистенциальное:</text:p>
+<text:p text:style-name="P16">…Где стол был яств, там гроб
+стоит;<text:line-break />Где пиршеств раздавались
+лики,<text:line-break />Надгробные там воют клики,<text:line-break />И
+бледна смерть на всех глядит.</text:p>
+<text:p text:style-name="P16">Глядит на всех — и на
+царей,<text:line-break />Кому в державу тесны
+миры;<text:line-break />Глядит на пышных богачей,<text:line-break />Что
+в злате и сребре кумиры;<text:line-break />Глядит на прелесть и
+красы,<text:line-break />Глядит на разум
+возвышенный,<text:line-break />Глядит на силы
+дерзновенны<text:line-break />И точит лезвие косы.</text:p>
+<text:p text:style-name="First_20_paragraph">Этот ужас перед всевластием
+смерти, которому можно противопоставить только неуверенный стоицизм, тем
+сильнее, что смерть у Державина — не абстракция, а почти сказочное
+чудовище. Она «точит лезвие косы» — здесь и сейчас. Конкретность
+мышления Державина, его склонность наполнять абстракции плотью отмечал
+исследователь Григорий Гуковский. Эту же черту отмечал, заметим, у
+английских поэтов-метафизиков (то есть у поэтов эпохи барокко) Т. С.
+Элиот. У Державина и его современников предромантизм через голову
+классицизма смыкается с недожитым русской поэзией барокко. </text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body">Сочинения Державина. 1831
+год</text:p>
+<text:p text:style-name="Text_20_body">Другая признанная вершина
+метафизической поэзии Державина — ода «Бог». В исторической перспективе
+она выглядит ответом на ломоносовское «Утреннее размышление о Божием
+величестве». Но если у Ломоносова огромность Божьего творения и
+человеческая малость примиряются тем, что Вселенная — ради человека, то
+у Державина — тем, что вселенная — в человеке:</text:p>
+<text:p text:style-name="P17">В воздушном океане
+оном,<text:line-break />Миры умножа миллионом<text:line-break />Стократ
+других миров, и то,<text:line-break />Когда дерзну сравнить с
+Тобою,<text:line-break />Лишь будет точкою одною;<text:line-break />А я
+перед Тобой — ничто.<text:line-break /><text:line-break />Ничто! — но Ты
+во мне сияешь<text:line-break />Величеством Твоих
+доброт;<text:line-break />Во мне Себя изображаешь,<text:line-break />Как
+солнце в малой капле вод.</text:p>
+<text:p text:style-name="First_20_paragraph">При этом даже ведя
+напряжённую речь (говоря словами поэта другой эпохи) «о месте человека
+во вселенной», Державин не забывает о вещественном, материальном мире, в
+который он воистину влюблён; космическое содержится не только в человеке
+— «малое» земное бытие служит ему подобием:</text:p>
+<text:p text:style-name="P18">Как в мразный, ясный день
+зимой<text:line-break />Пылинки инея
+сверкают,<text:line-break />Вратятся, зыблются,
+сияют,<text:line-break />Так звёзды в безднах под тобой.</text:p>
+<text:p text:style-name="First_20_paragraph">Сергей Аверинцев,
+характеризуя пластику Державина, пишет: «По пословице, не всё то золото,
+что блестит. Но мудрость этой недоверчивой пословицы — не для музы
+Державина. У неё всё, что блестит, — золото, или серебро, или
+драгоценные камни, или жемчуга, или хотя бы стекло, приближающееся к
+самоцветам по признаку светоносности…» Предметом
+торжественно-восторженного переживания может служить даже снедь
+(«шекснинска стерлядь золотая», «щука с голубым пером»), — например, в
+знаменитом позднем стихотворении «Евгению. Жизнь Званская» (1807) или в
+более раннем «Приглашении к обеду» (1795).</text:p>
+<text:p text:style-name="Text_20_body">Соответственно и к жанру
+хвалебной оды Державин подходит не так, как Ломоносов и его
+последователи. Для Ломоносова государство и государственный сверхпроект
+— нечто безличное, то, что он принимает безоговорочно, в его рамках
+пытаясь самореализоваться как учёный и поэт. Для профессионального
+государственного деятеля Державина — это живые люди, их взаимоотношения
+и драмы. Психологическое потрясение от «Фелицы» (1782), оды Екатерине
+II, заключалось в том, что императрица изображалась не как абстрактная
+властительница, чьи добродетели предопределены её саном, а как
+«идеальная личность» в просветительском смысле, но именно личность, с
+неповторимыми и необязательными особенностями:</text:p>
+<text:p text:style-name="P19">Мурзам твоим не
+подражая,<text:line-break />Почасту ходишь ты
+пешком,<text:line-break />И пища самая простая<text:line-break />Бывает
+за твоим столом;<text:line-break />Не дорожа твоим
+покоем,<text:line-break />Читаешь, пишешь пред
+налоем<text:line-break />И всем из твоего
+пера<text:line-break />Блаженство смертным проливаешь…</text:p>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body">Екатерина II</text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body">Рукопись оды Державина
+«Благодарность Фелице». Страница из рукописного собрания стихотворений
+Державина, поднесённого Екатерине II</text:p>
+<text:list text:style-name="L2">
+  <text:list-item>
+  </text:list-item>
+  <text:list-item>
+  </text:list-item>
+</text:list>
+<text:p text:style-name="First_20_paragraph">Державин ведёт сложную
+игру: Екатерина (коллега-писательница, что Державин не прочь
+подчеркнуть) воспевается в качестве персонажа её собственной
+аллегорической сказки, царевны Киргиз-Кайсацкой Орды (собственно,
+нынешнего Казахстана), а сам поэт, обыгрывая отдалённые татарские корни
+своей семьи, именует себя «мурзой» (дворянский титул в тюркских
+государствах) и приписывает себе пороки конкретных приближённых
+Екатерины или обобщённых провинциальных дворян. В результате каждая
+строфа становится маленьким памфлетом или эпиграммой, причём объекты
+насмешек — те же люди, которых Державин в других одах воспевает,
+например Потёмкин:</text:p>
+<text:p text:style-name="P21">А я, проспавши до
+полудни,<text:line-break />Курю табак и кофе
+пью;<text:line-break />Преобращая в праздник
+будни,<text:line-break />Кружу в химерах мысль мою:<text:line-break />То
+плен от персов похищаю,<text:line-break />То стрелы к туркам
+обращаю;<text:line-break />То, возмечтав, что я
+султан,<text:line-break />Вселенну устрашаю
+взглядом;<text:line-break />То вдруг, прельщаяся
+нарядом,<text:line-break />Скачу к портному по кафтан.</text:p>
+<text:p text:style-name="First_20_paragraph">Ода вызвала разноречивые
+отклики, но была восторженно принята самой  Екатериной. Державин по
+этому поводу написал ещё две оды — «Благодарность Фелице» и «Видение
+мурзы». </text:p>
+<text:p text:style-name="Text_20_body">Смерть Потёмкина вдохновила
+Державина на огромную, очень сложную по композиции оду «Водопад» (1791).
+Начинается она с блестящего описания:</text:p>
+<text:p text:style-name="P22">  Алмазна сыплется
+гора<text:line-break />С высот четыремя
+скалами,<text:line-break />Жемчугу бездна и
+сребра<text:line-break />Кипит внизу, бьет вверх
+буграми;<text:line-break />От брызгов синий холм
+стоит,<text:line-break />Далече рев в лесу гремит.</text:p>
+<text:p text:style-name="First_20_paragraph">Водопад наблюдает некий
+«старец», который оказывается фельдмаршалом Румянцевым Граф Пётр
+Александрович Румянцев (1725–1796) — полководец, генерал-фельдмаршал.
+Участник Семилетней войны, в Русско-турецкой войне 1768–1774 годов был
+главнокомандующим российской армией, за успешное завершение этой войны
+был удостоен титула «Задунайский». Считалось, что Румянцев, при всех его
+военных достижениях, не был жестоким полководцем и старался щадить и
+своих, и неприятельских солдат. ⁠ (его имя зашифровано в тексте). Он
+засыпает, видит во сне свои былые победы и затем переживает видение,
+указывающее на то, что «умер некий вождь». Дальше речь заходит уже о
+самом умершем, о его величии, зачёркнутом смертью. </text:p>
+<text:p text:style-name="P23">  Где слава? Где
+великолепье?<text:line-break />Где ты, о сильный
+человек?<text:line-break />Мафусаила долголетье<text:line-break />Лишь
+было б сон, лишь тень наш век;<text:line-break />Вся наша жизнь не что
+иное,<text:line-break />Как лишь мечтание пустое.</text:p>
+<text:p text:style-name="First_20_paragraph">Река Суна, «водопадов
+мать»,— аллегория Екатерины или России; но в конце она вливает воды «в
+светлый сонм Онеги», и это уже — равнодушная вечность, которая (цитируя
+предсмертные строки Державина) «топит в пропасти забвенья народы,
+царства и царей». Воспевая красоту земли и величие «сильных людей»,
+Державин всегда держит в уме этот исход, с которым можно только
+по-античному печально примириться — без особой надежды на спасение и
+«жизнь будущую». Он пытается, превозмогая своё жизнелюбие, сделать это в
+оде «На возвращение графа Зубова из Персии» (1797), где блестящие
+пейзажи Кавказа заканчиваются обращением к «тому покою, / К которому мы
+все идем». Знаменитый «Снигирь» (1800), реквием Суворову, ничего не
+противопоставляет итоговому поражению, зачёркивающему человеческие
+победы:</text:p>
+<text:p text:style-name="P24">Нет теперь мужа в свете столь
+славна:<text:line-break />Полно петь песню военну,
+снигирь!<text:line-break />Бранна музыка днесь не
+забавна,<text:line-break />Слышен отвсюду томный вой
+лир;<text:line-break />Львиного сердца, крыльев
+орлиных<text:line-break />Нет уже с нами! — что воевать?</text:p>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body">Екатерина Державина, жена
+поэта</text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body">Могила Александра Суворова в
+Благовещенской церкви в Александро-Невской лавре. Эпитафия — «Здесь
+лежит Суворов» — была предложена Державиным</text:p>
+<text:list text:style-name="L3">
+  <text:list-item>
+  </text:list-item>
+  <text:list-item>
+  </text:list-item>
+</text:list>
+<text:p text:style-name="First_20_paragraph">Но когда речь заходит о
+собственном горе, этого печального стоицизма Державину не хватает: он
+впадает в отчаяние и нуждается в утешении. Несколько стихотворений,
+созданных Державиным после смерти в 1794-м первой жены Екатерины
+Яковлевны (Плениры, как поэтически называл её Державин), выражают разные
+этапы этого состояния. Вот крик ужаса, обрушивающий всё — от правил
+приличия до версификационных канонов, и потому особенно
+выразительный:</text:p>
+<text:p text:style-name="P26">Роют псы землю, вкруг
+завывают,<text:line-break />Воет и ветер, воет и
+дом;<text:line-break />Мою милую не пробуждают;<text:line-break />Сердце
+мое сокрушает гром!</text:p>
+<text:p text:style-name="First_20_paragraph">В другом стихотворении,
+«Призывание и явление Плениры», призрак умершей подсказывает быстрое и
+банальное утешение — «Миленой половину займи души своей» (Екатерина
+Державина в самом деле «завещала» мужа своей подруге, Дарье Дьяковой,
+свояченице Львова и Капниста, — в браке с ней Державин прожил больше
+двадцати лет). Но главное стихотворение этого «цикла» (и, возможно,
+вершинное стихотворение Державина) — «Ласточка», начатое ещё в 1792
+году, но после смерти Плениры дописанное и получившее новый смысл.
+Мотив, восходящий к псевдо-Анакреонту Собирательное имя античных
+авторов, чьи произведения приписываются древнегреческому лирику
+Анакреонту. ⁠ , переосмысляется. «Домовитая ласточка», «милосизая птичка»
+(характерный для Державина сдвоенный эпитет) — символ жизни во всём её
+богатстве, умирающей и возрождающейся:</text:p>
+<text:p text:style-name="P27">Ты часто, как молния,
+реешь<text:line-break />Мгновенно туды и сюды;<text:line-break />Сама за
+собой не успеешь<text:line-break />Невидимы видеть следы,
+—<text:line-break />Но видишь там всю ты вселенну,<text:line-break />Как
+будто с высот на ковре:<text:line-break />Там башню, как жар
+позлащенну,<text:line-break />В чешуйчатом флот там
+сребре…<text:line-break />&lt;…&gt;</text:p>
+<text:p text:style-name="P27">Но видишь и бури ты
+черны,<text:line-break />И осени скучной приход;<text:line-break />И
+прячешься в бездны подземны,<text:line-break />Хладея зимою, как
+лёд.<text:line-break />Во мраке лежишь бездыханна,
+—<text:line-break />Но только лишь придет весна<text:line-break />И роза
+вздохнет лишь румяна,<text:line-break />Встаешь ты от смертного
+сна;<text:line-break />Встанешь, откроешь зеницы<text:line-break />И
+новый луч жизни ты пьешь;<text:line-break />Сизы оправя
+косицы,<text:line-break />Ты новое солнце поешь…</text:p>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body">Гравюра с ласточкой. Конец XIX
+века</text:p>
+<text:p text:style-name="Text_20_body">Человеческая душа подобна
+ласточке, но её возрождение (и воссоединение с любимыми) возможно лишь
+«в бездне эфира», за пределами земного бытия. Вместо меланхолического
+приятия смерти здесь мотив её преодоления; но у Державина это
+исключение.</text:p>
+<text:p text:style-name="Text_20_body"> «Ласточка» демонстрирует и
+своеобразную поэтическую технику Державина, которая в полной мере могла
+быть оценена лишь в модернистскую эпоху. Он виртуозно обращается с
+ритмом, время от времени отступая от силлабо-тоники. В других
+стихотворениях («Цыганская пляска», 1805) он демонстрирует владение
+сложными строфами. Его образы и величественны, и забавны в своей мощи и
+конкретности, — например, в «Рождении красоты» (1797) Зевес</text:p>
+<text:p text:style-name="P28">Распалился столько
+гневом,<text:line-break />Что, курчавой
+головой<text:line-break />Покачав, шатнул всем
+небом,<text:line-break />Адом, морем и землей.</text:p>
+<text:p text:style-name="First_20_paragraph">Мастер «барочных»
+контрастов, Державин иногда может передавать и более тонкие оттенки
+чувств. Но при этом его слог обстоятельно-тяжеловесен. Философ и
+лингвист Михаил Эпштейн сравнивает державинский синтаксис с синтаксисом
+Льва Толстого:</text:p>
+<text:p text:style-name="P29">Да, так! Хоть родом я не
+славен,<text:line-break />Но, будучи любимец
+муз,<text:line-break />Другим вельможам я не равен,<text:line-break />И
+самой смертью предпочтусь.</text:p>
+<text:p text:style-name="P29">«Лебедь», 1804 </text:p>
+<text:p text:style-name="First_20_paragraph">Вероятно, именно поэтому
+Пушкину и его современникам державинская поэзия казалась местами
+корявой, неловкой, косноязычной.</text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body">Александр Радищев</text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body">Александр Радищев. Ода
+«Вольность». Издание 1906 года</text:p>
+<text:list text:style-name="L4">
+  <text:list-item>
+  </text:list-item>
+  <text:list-item>
+  </text:list-item>
+</text:list>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body">Путешествие из Петербурга в
+Москву. Фрагмент основной рукописи (первая строфа оды
+«Вольность»)</text:p>
+<text:p text:style-name="Text_20_body">Поэзия Державина определила
+мейнстрим эпохи. Другие поэты, дебютировавшие в 1770–80-е, в разных
+направлениях отходили от ломоносовского несколько отвлечённого витийства
+и от строгого сумароковского классицизма. Некоторые искали новые
+просодические возможности, усложняли образность, смешивали жанры и даже
+обращались к таким языковым ходам, которые уже были осмеяны как
+архаические. Среди таких экспериментаторов на одном из первых мест
+Александр Радищев (1749–1802) — политический радикал, «якобинец», автор
+<text:a xlink:type="simple" xlink:href="https://polka.academy/articles/643" office:name=""><text:span text:style-name="Definition">«Путешествия
+из Петербурга в Москву»</text:span></text:a>. Смелый не только в
+политике, но и в литературе, он уже в оде «Вольность» (1783) идёт на
+эксперименты:</text:p>
+<text:p text:style-name="P31">О! дар небес
+благословенный,<text:line-break />Источник всех великих
+дел,<text:line-break />О, вольность, вольность, дар
+бесценный!<text:line-break />Позволь, чтоб раб тебя
+воспел.<text:line-break />Исполни сердце твоим
+жаром,<text:line-break />В нем сильных мышц твоих
+ударом<text:line-break />Во свет рабства тьму
+претвори,<text:line-break />Да Брут и Телль еще
+проснутся,<text:line-break />Седяй во власти да
+смятутся <text:line-break />От гласа твоего цари.</text:p>
+<text:p text:style-name="First_20_paragraph">Радищев, как видим,
+смешивает разговорный язык с архаическими оборотами, не употреблявшимися
+со времён Тредиаковского, а строку «во свет рабства тьму претвори»
+снабжает комментарием, указывая, что её неблагозвучие отражает
+«трудность самого действия».</text:p>
+<text:p text:style-name="Text_20_body">Напомним, что эпиграфом к
+«Путешествию» служит строка из «Тилемахиды» Тредиаковского — что само по
+себе было дерзостью; в 1801 году Радищев пытается «реабилитировать»
+Тредиаковского в статье «Памятник дактилохореическому витязю». Одним из
+первых после Тредиаковского Радищев пытается воссоздать средствами
+русской силлабо-тоники античные метры («Осьмнадцатое столетие», 1801;
+«Сафические строфы», 1799). В «Журавлях» (1797) он соединяет элегию и
+басню — и притом пользуется экзотическим для русской поэзии белым
+дактилем:</text:p>
+<text:p text:style-name="P32">Осень листы ощипала с
+дерев,<text:line-break />Иней седой на траву
+упадал,<text:line-break />Стадо тогда журавлей
+собралося,<text:line-break />Чтоб прелететь в тёплу, дальну
+страну…</text:p>
+<text:p text:style-name="First_20_paragraph"></text:p>
+<text:p text:style-name="Text_20_body">Семён Бобров</text:p>
+<text:p text:style-name="Text_20_body">Стремлением «дорогу проложить,
+где не бывало следу для борзых смельчаков и в прозе, и в стихах»
+пронизано всё творчество Радищева. Но Семён Бобров (1763–1810), служащий
+и присяжный поэт Адмиралтейства, масон и мистик, был ещё смелее.
+«Тёмные» образы его настолько ставили в тупик современников, что они
+связывали их со слабостью Боброва к горячительным напиткам; поэт получил
+прозвище Бибрус, от латинского bibеre — «пить». Хотя его поэзию высоко
+ценил Державин, её любили поэты пушкинского поколения, известные как
+«младоархаисты» Термин «младоархаисты» был предложен Юрием Тыняновым:
+так Тынянов обозначал эстетические взгляды группы авторов, в которую он
+включал Грибоедова, Кюхельбекера и Катенина (в противоположность
+«новаторам» — последователям Карамзина). Концепция Тынянова не была
+единодушно принята литературоведением и вызывала критику. ⁠ (Кюхельбекер
+и Грибоедов), да и Пушкин проявлял к ней интерес, она была забыта и
+удостоилась переиздания лишь в XXI веке. В лучших своих стихах Бобров
+кажется чуть не протомодернистом: </text:p>
+<text:p text:style-name="P33">Уже в проснувшемся другом земном
+полшаре<text:line-break />Светило пламенно ночных тьму гонит
+туч,<text:line-break />А мы из-за лесов едва в сгущенном
+паре<text:line-break />Зрим умирающий его вечерний луч.</text:p>
+<text:p text:style-name="P33">Какая густота подъемлется
+седая<text:line-break />К горящим небесам с простывших сих
+полей!<text:line-break />Смотри! почти везде простерлась мгла
+густая,<text:line-break />И атмосфера вся очреватела ей!</text:p>
+<text:p text:style-name="P33">«Прогулка в сумерки, или Вечернее
+наставление Зараму», 1785</text:p>
+<text:p text:style-name="First_20_paragraph">Бобров едва ли единственный
+из русских поэтов создал реквием Павлу I («Ночь», 1801), прозрачно
+намекнув на его убийство. Гибель императора в марте мистически связана с
+Мартовскими идами — убийством заговорщиками Юлия Цезаря. Боброва явно
+больше интересует космический, а не политический уровень
+происходящего:</text:p>
+<text:p text:style-name="P34">Миры горящи
+покатились <text:line-break />В гармоньи новой по
+зыбям; <text:line-break />Тут их влиянья
+ощутились; <text:line-break />Тут горы, высясь к
+облакам, <text:line-break />И одночасные
+пылины, <text:line-break />Носимые в лучах дневных, <text:line-break />С
+одной внезапностью судьбины, <text:line-break />Дрогнувши, исчезают
+вмиг. </text:p>
+<text:p text:style-name="First_20_paragraph">Особое место в творчестве
+Боброва занимает поэма «Херсонида, или Картина лучшего летнего дня в
+Херсонисе Таврическом» (1792–1804), менее тёмная, чем другие его стихи,
+и местами впечатляющая красотой и тонкостью описаний. Необычен и
+избранный Бобровым стих — нерифмованный четырёхстопный ямб без строгого
+чередования мужских и женских окончаний То есть окончаний, в которых
+ударение падает на последний и на предпоследний слог соответственно. ⁠
+: </text:p>
+<text:p text:style-name="P35">Мне чудится в сей страшный
+час<text:line-break />Органный некий тихий
+звук;<text:line-break />Зефиры грозных бурь, трепеща<text:line-break />И
+зыбля сетчатые крылья,<text:line-break />Лишь только шепчут меж
+собой<text:line-break />И, крылышком касаясь
+струн,<text:line-break />Чинят в сей арфе некий
+звон;<text:line-break />Лишь только слышен дикий
+стон,<text:line-break />Из сердца исходящий
+гор,<text:line-break />Предтеча верный сильной бури.</text:p>
+<text:p text:style-name="First_20_paragraph">Другую большую поэму
+Боброва — «Древняя ночь вселенной, или Странствующий слепец» (1807) —
+обычно относят к его неудачам, но она привлекает исследователей
+масонства. </text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body">Юрий Нелединский-Мелецкий и
+Дмитрий Горчаков</text:p>
+<text:p text:style-name="Text_20_body">Противоположной линией стала
+«лёгкая поэзия», демонстративно лишённая пафоса, прозрачная по языку,
+мягкая по интонации, полностью обращённая к частному и притом отходящая
+от классицистской нормативности.</text:p>
+<text:p text:style-name="Text_20_body">Юрий Нелединский-Мелецкий
+(1752–1829) либо оживляет традиционный, построенный на изящных
+банальностях жанр лирической песни формулами, рождёнными индивидуальным
+чувством («Чтоб счастлива была ты мною, а благодарна лишь судьбе»), либо
+с невиданной прежде смелостью использует фольклорные мотивы:</text:p>
+<text:p text:style-name="P36"> Выду я на
+реченьку,<text:line-break /> Погляжу на быструю
+—<text:line-break /> Унеси моё ты горе,<text:line-break /> Быстра
+реченька, с собой!</text:p>
+<text:p text:style-name="First_20_paragraph">У Дмитрия Горчакова
+(1758–1824) лёгкая поэзия «не для печати» смыкается с умеренным
+вариантом барковианы (поэма «Соловей», являющаяся переложением новеллы
+Боккаччо) и традицией светской рифмованной «чепухи». Пушкин, между
+прочим, пытался приписать покойному уже Горчакову свою «Гавриилиаду» —
+кощунственную эротическую поэму, в которой действуют Дева Мария,
+архангел Гавриил, Бог и Сатана.</text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body">Михаил Муравьёв</text:p>
+<text:p text:style-name="Text_20_body">Но вершиной этой линии было
+творчество Михаила Муравьёва (1757–1807). «Лёгкость» его поэзии — не в
+тоне или простоте, а в подходе к стиху и языку, в стремлении к
+благозвучности и изяществу, в отходе от больших метафизических и
+политических тем, состредоточенности на частном. Как и на Боброва, на
+него влияла английская меланхолическая, «кладбищенская» поэзия — уже
+упоминавшиеся Юнг и Грей. Но Муравьёва увлекает не «темнота» Юнга и не
+его метафизические фантазии, а искусство выражения тонких чувств и
+впечатлений. Его «Ночь» (1776–1785) — произведениене менее новаторское,
+чем державинская ода на смерть Мещерского:</text:p>
+<text:p text:style-name="P37">Не сходят ли уже с сих тонких
+облаков<text:line-break />Обманчивы мечты и между резвых
+снов<text:line-break />Надежды и любви, невинности подруги?</text:p>
+<text:p text:style-name="P37">Уже смыкаются зениц усталых
+круги.<text:line-break />Носися с плавностью, стыдливая
+луна:<text:line-break />Я преселяюся во темну область
+сна.<text:line-break />Уже язык тяжел и косен
+становится.<text:line-break />Еще кидаю взор — и всё бежит и
+тьмится.</text:p>
+<text:p text:style-name="First_20_paragraph">Так же необычны для эпохи и
+по-новому выразительны «Желание зимы» (1776) и «Утро» (1780). В «Роще»
+(1777) Муравьёв чуть ли не единственным в промежутке между Тредиаковским
+и Радищевым прибегает к имитации гекзаметра — и показывает, что этот
+стих может быть по-настоящему благозвучен и гибок. Образы же прямо
+открывают двери в новую поэтическую эпоху:</text:p>
+<text:p text:style-name="P38">Кажется, ветви беседуют; кажется, некая
+влага<text:line-break />Воздух собой проникает и землю покоящусь
+будит,<text:line-break />Землю, котора дремала, тенью своей
+покровенна. </text:p>
+<text:p text:style-name="First_20_paragraph">Самое знаменитое
+стихотворение Муравьёва — «Богине Невы» (1794); Петербург в нём впервые
+воспевается не как имперская столица, а как таинственный, романтический,
+«заколдованный» город:</text:p>
+<text:p text:style-name="P39">В час, как смертных
+препроводишь,<text:line-break />Утомленных счастьем
+их,<text:line-break />Тонким паром ты восходишь<text:line-break />На
+поверхность вод своих.</text:p>
+<text:p text:style-name="P39">&lt;…&gt;</text:p>
+<text:p text:style-name="P39">Въявь богиню
+благосклонну<text:line-break />Зрит восторженный
+пиит,<text:line-break />Что проводит ночь
+бессонну,<text:line-break />Опершися на гранит.</text:p>
+<text:p text:style-name="First_20_paragraph">Именно такие поэты, как
+Муравьёв, Нелединский-Мелецкий, Капнист ближе всего стоят к Карамзину и
+Дмитриеву, чья языковая революция (и оппозиция ей со стороны других
+писателей) предопределила дальнейшие пути развития русской литературы в
+1790–1810-е годы. Один из крупнейших поэтов этой новой эпохи, Константин
+Батюшков, был непосредственным учеником Муравьёва. Но её дискуссии и
+проблематика — отдельная и большая тема. </text:p>
+<text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="https://polka.academy/materials/915" office:name=""><text:span text:style-name="Definition">Следующая
+лекция</text:span></text:a></text:p>
+<text:p text:style-name="First_20_paragraph">поделиться</text:p>
+<text:list text:style-name="L5">
+  <text:list-item>
+    <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="//vk.com/share.php?url=" office:name=""><text:span text:style-name="Definition">вконтакте</text:span></text:a></text:p>
+  </text:list-item>
+  <text:list-item>
+    <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="//twitter.com/share?url=" office:name=""><text:span text:style-name="Definition">твиттер</text:span></text:a></text:p>
+  </text:list-item>
+  <text:list-item>
+    <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="//telegram.me/share/url?url=" office:name=""><text:span text:style-name="Definition">телеграм</text:span></text:a></text:p>
+  </text:list-item>
+</text:list>
+<text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="другие-статьи" />Другие
+Статьи<text:bookmark-end text:name="другие-статьи" /></text:h>
+<text:p text:style-name="First_20_paragraph"><text:a xlink:type="simple" xlink:href="/materials/997" office:name=""><text:span text:style-name="Definition"></text:span></text:a></text:p>
+<text:p text:style-name="Text_20_body"><draw:frame draw:name="img9"><draw:image xlink:href="https://api.polka.academy/storage/post/997/vertical_links_picture-9a5938b4112b27b4b741d2f861d5e5cb.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame></text:p>
+<text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="духи-и-спириты-русской-литературы" />+10:
+духи и спириты русской
+литературы<text:bookmark-end text:name="духи-и-спириты-русской-литературы" /></text:h>
+<text:p text:style-name="First_20_paragraph">Жена Свидригайлова, Клара
+Милич и другие мистические персонажи</text:p>
+<text:p text:style-name="Text_20_body">8 November</text:p>
+<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="/materials/996" office:name=""><text:span text:style-name="Definition"></text:span></text:a></text:p>
+<text:p text:style-name="Text_20_body"><draw:frame draw:name="img10"><draw:image xlink:href="https://api.polka.academy/storage/post/996/vertical_links_picture-64f6213641e34847b929aae44f39d5ae.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame></text:p>
+<text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="репринт-любовь-к-шестерым-и-брюсов-политолог" />Репринт:
+«Любовь к шестерым» и
+Брюсов-политолог<text:bookmark-end text:name="репринт-любовь-к-шестерым-и-брюсов-политолог" /></text:h>
+<text:p text:style-name="First_20_paragraph">Лучшие переиздания
+октября</text:p>
+<text:p text:style-name="Text_20_body">22 October</text:p>
+<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="/materials/995" office:name=""><text:span text:style-name="Definition"></text:span></text:a></text:p>
+<text:p text:style-name="Text_20_body"><draw:frame draw:name="img11"><draw:image xlink:href="https://api.polka.academy/storage/post/995/vertical_links_picture-68ce55b404358e656875d27cdd339772.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame></text:p>
+<text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="он-всегда-спешил-и-оказался-прав" />«Он
+всегда спешил и оказался
+прав»<text:bookmark-end text:name="он-всегда-спешил-и-оказался-прав" /></text:h>
+<text:p text:style-name="First_20_paragraph">К 130-летию Юрия Тынянова —
+первая публикация из новой книги Полины Барсковой</text:p>
+<text:p text:style-name="Text_20_body">17 October</text:p>
+<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="/books" office:name=""><text:span text:style-name="Definition">книги</text:span></text:a><text:a xlink:type="simple" xlink:href="/lists" office:name=""><text:span text:style-name="Definition">списки</text:span></text:a><text:a xlink:type="simple" xlink:href="/podcasts" office:name=""><text:span text:style-name="Definition">подкасты</text:span></text:a><text:a xlink:type="simple" xlink:href="/materials" office:name=""><text:span text:style-name="Definition">статьи</text:span></text:a><text:a xlink:type="simple" xlink:href="/projects" office:name=""><text:span text:style-name="Definition">спецпроекты</text:span></text:a><text:a xlink:type="simple" xlink:href="https://click.polka.academy/" office:name=""><text:span text:style-name="Definition">КЛИК</text:span></text:a><text:a xlink:type="simple" xlink:href="/experts" office:name=""><text:span text:style-name="Definition">эксперты</text:span></text:a><text:a xlink:type="simple" xlink:href="/about" office:name=""><text:span text:style-name="Definition">о проекте</text:span></text:a></text:p>
+<text:p text:style-name="Text_20_body">Поиск</text:p>
+<text:list text:style-name="L6">
+  <text:list-item>
+    <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="https://t.me/polka_academy" office:name=""><text:span text:style-name="Definition"><draw:frame draw:name="img12"><draw:image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOSIgaGVpZ2h0PSIxNiIgdmlld2JveD0iMCAwIDE5IDE2IiBjbGFzcz0iXzFiNXlyIF8xeHNZRSI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBmaWxsPSIjOTk5IiBkPSJNMTcuMzc1LjgwM0wuODg1IDcuMTU0YS41OTIuNTkyIDAgMCAwIC4wNDkgMS4xMjRsNC4xODkgMS4yMjMgMS41NjQgNC45MDRhLjcyMy43MjMgMCAwIDAgMS4yMDEuMjg1bDIuMTY2LTIuMTg3IDQuMjUgMy4wODRjLjUyMS4zNzggMS4yNjIuMDk3IDEuMzkzLS41MjdsMi44MTYtMTMuMzA0Yy4xMzctLjY1Mi0uNTExLTEuMTk1LTEuMTM4LS45NTN6bS0yLjA2OSAyLjk1MUw3LjY0OCAxMC40NWEuNC40IDAgMCAwLS4xMzcuMjU5TDcuMjE3IDEzLjNjLS4wMS4wODUtLjEyOS4wOTYtLjE1Ni4wMTVMNS44NDggOS40NTFhLjQwNi40MDYgMCAwIDEgLjE3Ni0uNDY3bDkuMDQ1LTUuNTQ1Yy4yMDgtLjEyNy40MjEuMTU2LjIzNy4zMTV6Ij48L3BhdGg+PC9zdmc+" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame></text:span></text:a></text:p>
+  </text:list-item>
+  <text:list-item>
+    <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="https://twitter.com/polka_academy" office:name=""><text:span text:style-name="Definition"><draw:frame draw:name="img13"><draw:image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMSIgaGVpZ2h0PSIxNyIgdmlld2JveD0iMCAwIDIxIDE3IiBjbGFzcz0iXzFiNXlyIF8yLTJUeCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBmaWxsPSIjOTk5IiBkPSJNMjAuNTEyIDIuNjRhOC4yOTIgOC4yOTIgMCAwIDEtMi4zNi42MzZjLjg0OS0uNSAxLjUtMS4yOTIgMS44MDctMi4yMzYtLjc5NC40NjQtMS42NzQuOC0yLjYwOS45ODJBNC4xMzMgNC4xMzMgMCAwIDAgMTQuMzUxLjc0NUMxMS43Ljc0NSA5Ljc1IDMuMTggMTAuMzQ5IDUuNzA4YTExLjczMSAxMS43MzEgMCAwIDEtOC40NjctNC4yMjMgNC4wMDggNC4wMDggMCAwIDAgMS4yNzIgNS4zOTYgNC4xNTYgNC4xNTYgMCAwIDEtMS44NjItLjUwNWMtLjA0NCAxLjg3MiAxLjMyIDMuNjIzIDMuMjk1IDQuMDE0YTQuMjAzIDQuMjAzIDAgMCAxLTEuODU0LjA2OWMuNTIyIDEuNjA1IDIuMDQgMi43NzQgMy44MzcgMi44MDdBOC4zNjYgOC4zNjYgMCAwIDEgLjQ4OCAxNC45NGExMS43NzQgMTEuNzc0IDAgMCAwIDYuMjk3IDEuODE1YzcuNjI4IDAgMTEuOTM3LTYuMzM4IDExLjY3Ny0xMi4wMjNhOC4yNjcgOC4yNjcgMCAwIDAgMi4wNS0yLjA5MnoiPjwvcGF0aD48L3N2Zz4=" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame></text:span></text:a></text:p>
+  </text:list-item>
+  <text:list-item>
+    <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="https://vk.com/polka.academy%20" office:name=""><text:span text:style-name="Definition"><draw:frame draw:name="img14"><draw:image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMSIgaGVpZ2h0PSIxMiIgdmlld2JveD0iMCAwIDIxIDEyIiBjbGFzcz0iXzFiNXlyIHZnZlotIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiM5OTkiIGQ9Ik05Ljg3IDExLjk1NmgxLjE5OXMuMzYyLS4wNC41NDgtLjI0Yy4xNy0uMTgzLjE2NS0uNTI3LjE2NS0uNTI3cy0uMDI0LTEuNjEyLjcyMy0xLjg1Yy43MzctLjIzNCAxLjY4MiAxLjU1OSAyLjY4NSAyLjI0Ny43NTcuNTIyIDEuMzM0LjQwOCAxLjMzNC40MDhsMi42OC0uMDM4czEuNDAyLS4wODcuNzM3LTEuMTljLS4wNTQtLjA5MS0uMzg2LS44MTctMS45OTMtMi4zMS0xLjY4LTEuNTYyLTEuNDU1LTEuMzA5LjU2OS00LjAxMSAxLjIzMi0xLjY0NiAxLjcyNS0yLjY1IDEuNTcxLTMuMDgtLjE0Ni0uNDExLTEuMDUzLS4zMDItMS4wNTMtLjMwMmwtMy4wMTguMDE4cy0uMjI0LS4wMy0uMzg5LjA2OWMtLjE2MS4wOTgtLjI2Ni4zMjUtLjI2Ni4zMjVzLS40NzggMS4yNzMtMS4xMTQgMi4zNTZjLTEuMzQ1IDIuMjg1LTEuODgyIDIuNDA2LTIuMTAyIDIuMjY0LS41MTEtLjMzMS0uMzgzLTEuMzI4LS4zODMtMi4wMzggMC0yLjIxNC4zMzYtMy4xMzctLjY1My0zLjM3Ni0uMzI4LS4wOC0uNTY5LS4xMzItMS40MDktLjE0MUM4LjYyNS41MyA3LjcxNC41NDQgNy4xOTcuNzk3Yy0uMzQzLjE2OS0uNjA3LjU0My0uNDQ2LjU2NS4xOTkuMDI2LjY1MS4xMjIuODkuNDQ4LjMwOS40MjIuMjk5IDEuMzY4LjI5OSAxLjM2OHMuMTc4IDIuNjA3LS40MTUgMi45MzFjLS40MDYuMjIyLS45NjQtLjIzMi0yLjE2My0yLjMwNS0uNjEzLTEuMDYyLTEuMDc3LTIuMjM2LTEuMDc3LTIuMjM2cy0uMDg5LS4yMTktLjI0OS0uMzM2YTEuMjM1IDEuMjM1IDAgMCAwLS40NjMtLjE4OGwtMi44NjcuMDE5cy0uNDMxLjAxMi0uNTg5LjJjLS4xNDEuMTY2LS4wMTIuNTExLS4wMTIuNTExczIuMjQ1IDUuMjYgNC43ODggNy45MTFjMi4zMyAyLjQzIDQuOTc3IDIuMjcxIDQuOTc3IDIuMjcxeiI+PC9wYXRoPjwvc3ZnPg==" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame></text:span></text:a></text:p>
+  </text:list-item>
+</text:list>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="полка-2018.-все-права-защищены-лицензия" />©
+полка 2018. Все права защищены
+лицензия<text:bookmark-end text:name="полка-2018.-все-права-защищены-лицензия" /></text:h>
+<text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="site-by-charmer" />site
+by
+<text:a xlink:type="simple" xlink:href="http://charmerstudio.com/" office:name=""><text:span text:style-name="Definition">Charmer</text:span></text:a><text:bookmark-end text:name="site-by-charmer" /></text:h></text:section>
+<text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="к-сожалению-браузер-которым-вы-пользуйтесь-устарел-и-не-позволяет-корректно-отображать-сайт.-пожалуйста-установите-любой-из-современных-браузеров-например" />К
+сожалению, браузер, которым вы пользуйтесь, устарел и не позволяет
+корректно отображать сайт. Пожалуйста, установите любой из современных
+браузеров,
+например:<text:bookmark-end text:name="к-сожалению-браузер-которым-вы-пользуйтесь-устарел-и-не-позволяет-корректно-отображать-сайт.-пожалуйста-установите-любой-из-современных-браузеров-например" /></text:h>
+<text:p text:style-name="First_20_paragraph"><text:a xlink:type="simple" xlink:href="https://www.google.ru/chrome/browser/desktop/" office:name=""><text:span text:style-name="Definition">Google
+Chrome</text:span></text:a>
+<text:a xlink:type="simple" xlink:href="https://www.mozilla.org/ru/firefox/new/" office:name=""><text:span text:style-name="Definition">Firefox</text:span></text:a>
+<text:a xlink:type="simple" xlink:href="http://www.opera.com/ru" office:name=""><text:span text:style-name="Definition">Opera</text:span></text:a></text:p>
+</office:text>
+</office:body>
+</office:document-content>
